@@ -32,7 +32,7 @@ if (txt == noone) {
 if (point_in_circle(x, y, objPlayer.x, objPlayer.y, 32)) {
 	if (keyboard_check_pressed(game.interactKey)) {
 		if (txt == noone) {
-			scrText(myText, 0.5, c_gray, c_black, self);
+			scrText(myText, 0.5, self);
 		}
 	}
 };
