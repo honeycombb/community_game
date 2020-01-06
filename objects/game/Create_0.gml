@@ -12,3 +12,4 @@ leftKey = vk_left;
 rightKey = vk_right;
 
 interactKey = vk_space;
+//inventory, journal, map

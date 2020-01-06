@@ -20,7 +20,7 @@ if (moveY != 0) {
 };
 
 //---------->> Move
-if (txt == noone) {
+if !game.pause {
 	x += moveX;
 	y += moveY;
 };

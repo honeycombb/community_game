@@ -33,5 +33,7 @@ if (moveY != 0) {
 }
 
 //---------->> Move
-x += moveX;
-y += moveY;
+if !game.pause {
+	x += moveX;
+	y += moveY;
+};

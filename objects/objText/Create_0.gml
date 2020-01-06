@@ -21,7 +21,7 @@ page = 0;
 font = fnt;
 textLength = string_length(text[page]);
 fontSize = font_get_size(font);
-
+game.pause = true;
 	
 boxWidth = display_get_gui_width() - padding*2;
 maxLength = boxWidth - padding * 2;

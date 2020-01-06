@@ -14,8 +14,9 @@ if (keyboard_check_pressed(game.interactKey)) {
 		time = 0;
 		page++;
 	} else {
-		instance_destroy();
 		creator.txt = noone;
+		game.pause = false;
+		instance_destroy();
 	}
 };
 
