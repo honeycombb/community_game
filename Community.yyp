@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "061a65a2-f5e6-4409-b011-48c80db79506",
+            "Value": {
+                "id": "1455a22e-92ed-4bac-8cd1-bc9a9d38c256",
+                "resourcePath": "sprites\\sprSign\\sprSign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b55aafe-e459-4fff-a7ba-75c09385f8a1",
             "Value": {
                 "id": "3e1e2fed-6dfa-4e0c-9295-4d9a7c41e5a9",
@@ -159,11 +167,27 @@
             }
         },
         {
+            "Key": "9e597660-2f3f-48e5-9f4f-9f0e829b0cfe",
+            "Value": {
+                "id": "73a2e155-3695-48e9-bc00-068ff61b523a",
+                "resourcePath": "views\\9e597660-2f3f-48e5-9f4f-9f0e829b0cfe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a24c807c-9864-4a72-a745-31072c1ddda5",
             "Value": {
                 "id": "00bb742f-9e84-40b2-b5ca-ac470df21d7e",
                 "resourcePath": "sprites\\sprPlayer\\sprPlayer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3d9238d-2ad3-46ba-a83b-175516534d49",
+            "Value": {
+                "id": "9927580a-a7dc-4495-9a92-ee8ff96d8e3a",
+                "resourcePath": "objects\\objSign\\objSign.yy",
+                "resourceType": "GMObject"
             }
         },
         {
